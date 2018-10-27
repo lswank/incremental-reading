@@ -1,3 +1,7 @@
+Luoliyan is back. https://github.com/luoliyan/incremental-reading Let's all go there instead!
+
+--
+
 I forked this because luoliyan removed it from the add-on page months ago. The people want it back. Here, it's back. Since luoliyan seems to have disappeared, I'll gladly accept pull requests and maintain it. Make Incremental Reading Great Again.
 
 **Note: The version of the add-on in this branch has been modified to work with Anki 2.1. It is not backwards-compatible with previous versions of Anki. If you are using an older version of Anki 2, please download the legacy branch [here](https://github.com/luoliyan/incremental-reading-for-anki/archive/legacy.zip).**
